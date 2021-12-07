@@ -1,0 +1,818 @@
+{
+  "0": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Brand New Apartment | Ready to move in",
+    "url": "https://www.bayut.com/property/details-5199806.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 24.945278,
+      "longitude": 55.223379
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,156",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/168740127-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Dubai South"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "1": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "Luxurious Living | Well-maintained Villa",
+    "url": "https://www.bayut.com/property/details-5466543.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 24.996489,
+      "longitude": 55.391296
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,882",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "5"
+    },
+    "numberOfBathroomsTotal": "5",
+    "image": "https://images.bayut.com/thumbnails/168731919-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "DAMAC Hills 2 (Akoya by DAMAC)"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "2": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "SPACIOUS AND HUGE 2 BHK || AMAZING LOCALITY || 100% AVAILABLE || CALL NOW FOR VIEWING",
+    "url": "https://www.bayut.com/property/details-5496903.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.064100684689,
+      "longitude": 55.207621734403
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,483",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/169414644-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Jumeirah Village Circle (JVC)"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "3": {
+    "@context": "https://schema.org",
+    "@type": "Residence",
+    "name": "Exclusive | Fully Upgraded | Corner Unit",
+    "url": "https://www.bayut.com/property/details-5478650.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.005914,
+      "longitude": 55.160213
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "4,889",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "3"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/170139370-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Green Community"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "4": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "High-End Finishing and Spacious Apartment",
+    "url": "https://www.bayut.com/property/details-5346368.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.205439,
+      "longitude": 55.262553
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,762",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/168745191-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Jumeirah"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "5": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Exclusive | Ideal Modern Upgrades | Palm Lifestyle",
+    "url": "https://www.bayut.com/property/details-5486509.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.106628,
+      "longitude": 55.149267
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "2,140",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "3"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/170542001-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Palm Jumeirah"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "6": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "Upgraded Type A | Prime Location | Large",
+    "url": "https://www.bayut.com/property/details-5550206.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.097839,
+      "longitude": 55.313
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "16,000",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "6"
+    },
+    "numberOfBathroomsTotal": "8",
+    "image": "https://images.bayut.com/thumbnails/168742275-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Al Barari"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "7": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Fully Furnished | Spacious 1BR|Marina/Palm View",
+    "url": "https://www.bayut.com/property/details-5528911.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.084499359131,
+      "longitude": 55.144500732422
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,054",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "1"
+    },
+    "numberOfBathroomsTotal": "2",
+    "image": "https://images.bayut.com/thumbnails/169330452-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Dubai Marina"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "8": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Captivating Sea Views | Motivated Seller",
+    "url": "https://www.bayut.com/property/details-5538811.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.08952,
+      "longitude": 55.149189
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,364",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/168738854-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Dubai Marina"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "9": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Stunning Sea View | Mid Floor | Fully Furnished",
+    "url": "https://www.bayut.com/property/details-5540347.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.111009,
+      "longitude": 55.178006
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,358",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/169975890-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Al Sufouh"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "10": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "3 Bedrooms | High Floor | Ready To Move",
+    "url": "https://www.bayut.com/property/details-5485165.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.20630017458,
+      "longitude": 55.344507694244
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,593",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "3"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/169346003-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "The Lagoons"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "11": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Brand New | Stunning Burj and Canal View",
+    "url": "https://www.bayut.com/property/details-5546359.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.180621,
+      "longitude": 55.269121
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "847",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "1"
+    },
+    "numberOfBathroomsTotal": "2",
+    "image": "https://images.bayut.com/thumbnails/171199206-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Business Bay"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "12": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Luxurious | Furnished | Huge Duplex Unit",
+    "url": "https://www.bayut.com/property/details-5547014.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.184561,
+      "longitude": 55.291356
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,204",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "1"
+    },
+    "numberOfBathroomsTotal": "2",
+    "image": "https://images.bayut.com/thumbnails/168589372-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Business Bay"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "13": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Upgraded | Vacant On Transfer | 2 Bedrooms",
+    "url": "https://www.bayut.com/property/details-5512251.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.198443,
+      "longitude": 55.270758
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,332",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/169345573-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Downtown Dubai"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "14": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "Extra Large Plot | Furnished | Exquisite",
+    "url": "https://www.bayut.com/property/details-5533004.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.098563095882,
+      "longitude": 55.306853822643
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "15,711",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "5"
+    },
+    "numberOfBathroomsTotal": "6",
+    "image": "https://images.bayut.com/thumbnails/168731454-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Al Barari"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "15": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Full Marina View | High Floor | Investors Deal",
+    "url": "https://www.bayut.com/property/details-5510498.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.080522,
+      "longitude": 55.138605
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "2,758",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "4"
+    },
+    "numberOfBathroomsTotal": "5",
+    "image": "https://images.bayut.com/thumbnails/168842652-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Jumeirah Beach Residence (JBR)"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "16": {
+    "@context": "https://schema.org",
+    "@type": "Residence",
+    "name": "Exclusive Semi-Detached Home on Single Row",
+    "url": "https://www.bayut.com/property/details-5448618.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.017085,
+      "longitude": 55.271815
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "2,999",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "3"
+    },
+    "numberOfBathroomsTotal": "4",
+    "image": "https://images.bayut.com/thumbnails/169249124-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Mudon"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "17": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Bright & Spacious | Zabeel View | Vacant",
+    "url": "https://www.bayut.com/property/details-5538484.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.200943,
+      "longitude": 55.280921
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "878",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "1"
+    },
+    "numberOfBathroomsTotal": "2",
+    "image": "https://images.bayut.com/thumbnails/168739102-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Downtown Dubai"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "18": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "Exclusive| Amazing Pool | 10,700 sq ft plot",
+    "url": "https://www.bayut.com/property/details-5384739.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 24.997113,
+      "longitude": 55.16352
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "4,347",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "4"
+    },
+    "numberOfBathroomsTotal": "4",
+    "image": "https://images.bayut.com/thumbnails/170139410-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Green Community"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "19": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "4 Bedroom Villa | 6652 Plot | Near Pool",
+    "url": "https://www.bayut.com/property/details-5548102.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.021877,
+      "longitude": 55.27038
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "4,700",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "4"
+    },
+    "numberOfBathroomsTotal": "4",
+    "image": "https://images.bayut.com/thumbnails/171378330-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Mudon"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "20": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "4 Bed+Maid-Fully upgraded-Kitchen appliances",
+    "url": "https://www.bayut.com/property/details-5528668.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.049262,
+      "longitude": 55.214097
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "4,578",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "4"
+    },
+    "numberOfBathroomsTotal": "5",
+    "image": "https://images.bayut.com/thumbnails/168814613-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Jumeirah Village Circle (JVC)"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "21": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Brand New | Furnished Apt | Huge Balcony",
+    "url": "https://www.bayut.com/property/details-5538067.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.213721,
+      "longitude": 55.319042
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,179",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/168731908-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Al Jaddaf"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "22": {
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "name": "Lake View | Large Size | 2 Balconies | Maid Room",
+    "url": "https://www.bayut.com/property/details-5449688.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.065513,
+      "longitude": 55.1402514025
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "1,448",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "2"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/169174849-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "Jumeirah Lake Towers (JLT)"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  },
+  "23": {
+    "@context": "https://schema.org",
+    "@type": "House",
+    "name": "A Stunning newly renovated villa! No Comms payable",
+    "url": "https://www.bayut.com/property/details-5553243.html",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.059885431208,
+      "longitude": 55.184808969498
+    },
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": "2,700",
+      "unitText": "SQFT"
+    },
+    "numberOfRooms": {
+      "@type": "QuantitativeValue",
+      "name": "Bedroom(s)",
+      "value": "3"
+    },
+    "numberOfBathroomsTotal": "3",
+    "image": "https://images.bayut.com/thumbnails/171195555-400x300.jpeg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UAE",
+      "addressRegion": "Dubai",
+      "addressLocality": "The Springs"
+    },
+    "price": "795,000",
+    "location": "The Pulse Residence, The Pulse, Dubai South, Dubai",
+    "beds": "2",
+    "baths": "3",
+    "area": "1,156 "
+  }
+}
